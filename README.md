@@ -14,7 +14,7 @@ My Tech Toolkit:
 
 - Priamry Scirpting Language - Python
 - Msc. Data Science at LJMU
-- Passionate for learning and implementing Data Science concepts on real-life applications to solve business challenges
+- Passionate for learning and implementing data science concepts on real-life applications to solve business challenges
 
 
 
