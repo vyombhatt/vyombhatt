@@ -1,4 +1,4 @@
-Hi! 👋 I’m Vyom Bhatt, a data scientist by profession!
+Hi! 👋 I’m Vyom Bhatt, a data scientist by profession.
 
 My Tech Toolkit:
 
