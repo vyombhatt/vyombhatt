@@ -12,7 +12,7 @@ My Tech Toolkit:
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="60" height="60"/>
 </p>
 
-- Priamry Scirpting Language - Python
+- Primary Scirpting Language - Python
 - Msc. Data Science at LJMU
 - Passionate for learning and implementing data science concepts on real-life applications to solve business challenges
 
